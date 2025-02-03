@@ -2,17 +2,15 @@
     "keys":
         [
             {
-              "crv": "P-256",
-              "d": "HpgyejsMIS7LyvdJXQXjT7Ak-xAWBVexnDCi2wyrmnY",
+              "alg": "RS256",
+              "e": "AQAB",
               "key_ops": [
-                "sign"
+                "verify"
               ],
-              "kty": "EC",
-              "x": "Ml_70GPg4JP3QDp1K-yLktBYG0Mn7tyCdOn_LjbsCDY",
-              "y": "F21bZqSfqXddk5qXcmZQNhcsrONPbfJ-g7BlmMV6UFk",
-              "alg": "ES256",
+              "kty": "RSA",
+              "n": "ksxOHhD-styoVuUUHYhK94S8CQb771bXZLnTm_xXDXoNnxH3czF13Toy5wxAXDZyut269whw0jjU92X3mehNno_neAISI6wiPOyfRTdrbgOyFHAIpLCCDms5mB-FEaCkpg71BWkNRCh-5TDMo3Znd1LMgSgmkjgVikl6_jEYKq0gvRzHDqOfEIuIDgDd0RkY8Zw75r6VsnPPR7aD9mvAKjxYDwqBVjmRlxmH7DOjOLLXUcmvuN9fVY64hAo0qn9Rf3-ziBs5UivAfDSxn4rIdZrBOFzzH21uPBtUxmYA3-e2ZA1Kr8V2oy7-WOrAkiEbthSu6fwJE1U1qNrKkA4CsAjY52hI5VeVs_kEqYTtnP2uWJcDrjsQHc3YRcj2qRTYwJLysOPpYz5VqYyUwaWTzxaS7kAU_cA-RjsCaPDxLv7zpM0Efm0W4EVEytHmpe8zNVHUn-QP9GeNADPQ26AZG2QeKANQq-_3WxzLs67SvtddPkbRp7dXfNPNPNRnsZF3",
               "use": "sig",
-              "kid": "0ca560d4313f8065c9ca64e6d6ab920e"
+              "kid": "516a2ccaf894e6b2197aced10e0eb2f2"
             }
         ]
 }
